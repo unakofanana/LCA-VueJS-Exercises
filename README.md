@@ -75,6 +75,6 @@ week9_ex01_vuejs_cooking_catalogue/
 
 ## Author
 
-Created by: Ashley Batchi  
+Created by: Unako Fanana
 Life Choices Academy — 2026
 

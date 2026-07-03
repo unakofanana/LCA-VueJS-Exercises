@@ -1,6 +1,6 @@
 # LCA-VueJS-Exercises
 
-**Trainee:** Ashley Batchi  
+**Trainee:** Unako Fanana 
 **Programme:** YouthCode Off-Site — Cohort 2, 2026  
 **Course:** Course 1 — Frontend Web Development  
 **Topic:** Vue.js Week 9 Exercise 01
